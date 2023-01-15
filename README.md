@@ -9,4 +9,5 @@ Currently, I'm pursuing Chemical Engineering, and my interest primarily lies in 
 
 On the computing side of things, I'm pursuing a degree in Bachelors of Science in Programming and Data Science from the Indian Institute of Technology, Madras. 
 
-I've programmed in Python, C++, C#, x86 assembly. I'm also experienced with tools such as Paint.NET, Blender, Unity and Godot. 
+I've programmed in Python, C++, C#, x86 assembly. I'm also experienced with tools such as Paint.NET, Blender, Unity and Godot. I'm familiar with low level graphics APIs like OpenGL and Vulkan.
+
