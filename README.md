@@ -11,3 +11,4 @@ On the computing side of things, I'm pursuing a degree in Bachelors of Science i
 
 I've programmed in Python, C++, C#, x86 assembly. I'm also experienced with tools such as Paint.NET, Blender, Unity and Godot. I'm familiar with low level graphics APIs like OpenGL and Vulkan.
 
+My hobbies include history, linguistics, archaeogenetics, along with philosophy. 
