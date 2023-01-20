@@ -1,7 +1,7 @@
 ### Hi there 
 ---
 
-I am Siddharth Gautam, a third year Chemical Engineering student at the National Institute of Technology, Rourkela. 
+I am Siddharth Gautam, a third year Chemical Engineering student at the National Institute of Technology, Rourkela, and a Diploma student at the Indian Institute of Technology, Madras pursuing Bachelors in Programming and Data Science. 
 
 Computers have fascinated me since the time I was introduced to them, at age 4. A Windows XP machine with the latest-and-greatest Pentium 4 and a solid 256 megs of RAM. So 2004! In my teenage years, I spent hours on Game Maker 8.0 and Visual Studio, writing little games and programs. I also got interested into Operating System development at one point and taught myself x86 assembly as well as the various aspects of low level programming from kernel design to task scheduling, file systems and device driver management. 
 
