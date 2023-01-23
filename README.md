@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there! :wave:
 ---
 
 I am Siddharth Gautam, a third year Chemical Engineering student at the National Institute of Technology, Rourkela, and a Diploma student at the Indian Institute of Technology, Madras pursuing Bachelors in Programming and Data Science. 
