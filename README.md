@@ -13,4 +13,4 @@ I've programmed in Python, C++, C#, x86 assembly. I'm also experienced with tool
 
 Some other stuff that interests me: history, linguistics, archaeogenetics, along with philosophy. 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RelativisticMechanic)](https://github.com/RelativisticMechanic/github-profile-trophy)
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RelativisticMechanic&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Siddharth Gautam"/></p>
