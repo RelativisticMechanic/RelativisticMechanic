@@ -12,3 +12,5 @@ On the computing side of things, I'm pursuing a degree in Bachelors of Science i
 I've programmed in Python, C++, C#, x86 assembly. I'm also experienced with tools such as Paint.NET, Blender, Unity, Godot and ANSYS FLUent. I'm familiar with low level graphics APIs like OpenGL.
 
 Some other stuff that interests me: history, linguistics, archaeogenetics, along with philosophy. 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RelativisticMechanic)](https://github.com/RelativisticMechanic/github-profile-trophy)
